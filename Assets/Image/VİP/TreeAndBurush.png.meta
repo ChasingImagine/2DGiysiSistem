@@ -1,0 +1,706 @@
+fileFormatVersion: 2
+guid: 4992a95b15ce7e04c9def8cd0ce61e7f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TreeAndBurush_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 359
+        width: 113
+        height: 139
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -3.5, y: -69.5}
+        - {x: -6.5, y: -66.5}
+        - {x: -6.5, y: -61.5}
+        - {x: -0.5, y: -60.5}
+        - {x: 4.5, y: -61.5}
+        - {x: 4.5, y: -66.40607}
+        - {x: 1.5, y: -69.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28d9c122141a56846a22d66f31f0e785
+      internalID: 1212383094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreeAndBurush_1
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 344
+        width: 97
+        height: 151
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4.5, y: -60.5}
+        - {x: -7.5, y: -57.5}
+        - {x: -7.5, y: -54.5}
+        - {x: -1.5, y: -53.5}
+        - {x: 3.5, y: -54.5}
+        - {x: 3.5, y: -57.5}
+        - {x: 0.5, y: -60.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: cea5f3175bcff6a41abce9f8b82e25bf
+      internalID: -913965553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreeAndBurush_2
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 361
+        width: 79
+        height: 120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -1.5, y: -60}
+        - {x: -3.5, y: -58}
+        - {x: -3.5, y: -55}
+        - {x: 1.5, y: -54}
+        - {x: 6.5, y: -55}
+        - {x: 6.5, y: -58}
+        - {x: 4.5, y: -60}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70bf8671a759b45438aac079404b2186
+      internalID: 2096414290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreeAndBurush_3
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 295
+        width: 22
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bea142a1d36c264eacbd556a1b7d094
+      internalID: -1054445435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreeAndBurush_4
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 292
+        width: 27
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b040a3fc18eeaa459dbecb0afb72082
+      internalID: 1291267095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreeAndBurush_5
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 290
+        width: 38
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02bb0e8db2a01e94c8e6b261952daaf8
+      internalID: 1642999294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreeAndBurush_6
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 285
+        width: 47
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2047a260e03d434d944251218583ba6
+      internalID: 313208572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreeAndBurush_7
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 280
+        width: 39
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5028679, y: 0.1888482}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6e6aefc93879fd449519c0fbf6320cf
+      internalID: 1914781941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreeAndBurush_8
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 287
+        width: 40
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3680b41eaeb536c45931ad43ab96420e
+      internalID: -1770287018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreeAndBurush_9
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 109
+        width: 17
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c78131f52d5823044855c2d63b2d3d13
+      internalID: -1094256087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreeAndBurush_10
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 108
+        width: 16
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50500e0c5fbf2bb479500d7d30b8be71
+      internalID: 1084473876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreeAndBurush_11
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 108
+        width: 15
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e7d8df8e0929ca4aa9518a079b22396
+      internalID: 1147127006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreeAndBurush_12
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 107
+        width: 15
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c332abc4701510a44b6b36e97095d5ab
+      internalID: -1388372744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreeAndBurush_13
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 76
+        width: 12
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd5ba2b239275e14b80a972ae404ef24
+      internalID: 771600475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreeAndBurush_14
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 76
+        width: 13
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fec79b5eee7291f4ab98db6aabb0e8f3
+      internalID: 172127117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreeAndBurush_15
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 76
+        width: 13
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e4213145d1ebcf4d954574484ff1995
+      internalID: 1989006921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreeAndBurush_16
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 77
+        width: 14
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d847a78db72aa67409123617a7ab0440
+      internalID: 1775113096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreeAndBurush_17
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 45
+        width: 12
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc44dbd89bef6bd41b3469cd291f798d
+      internalID: -215835659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreeAndBurush_18
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 44
+        width: 12
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97182d3d2fc369740a982622b98d934a
+      internalID: -1758714924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreeAndBurush_19
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 43
+        width: 14
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69b311f64ab05eb408b9fe85e8549c78
+      internalID: -221453500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreeAndBurush_20
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 44
+        width: 12
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a2a70745eec9624c8733b3ea3bd5170
+      internalID: -431666760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreeAndBurush_21
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 11
+        width: 10
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01e3fadbb02ba194099cac1ac5e3fdb5
+      internalID: -1597129953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreeAndBurush_22
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 10
+        width: 10
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b7df2278ce1b22498fce26bc90ab5c5
+      internalID: -1013570656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreeAndBurush_23
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 11
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4ab4054bd244b54ba44772facc18878
+      internalID: -161053187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreeAndBurush_24
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 12
+        width: 6
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea95bd82821c73d498d81c7ab4170354
+      internalID: 1204315240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      TreeAndBurush_0: 1212383094
+      TreeAndBurush_1: -913965553
+      TreeAndBurush_10: 1084473876
+      TreeAndBurush_11: 1147127006
+      TreeAndBurush_12: -1388372744
+      TreeAndBurush_13: 771600475
+      TreeAndBurush_14: 172127117
+      TreeAndBurush_15: 1989006921
+      TreeAndBurush_16: 1775113096
+      TreeAndBurush_17: -215835659
+      TreeAndBurush_18: -1758714924
+      TreeAndBurush_19: -221453500
+      TreeAndBurush_2: 2096414290
+      TreeAndBurush_20: -431666760
+      TreeAndBurush_21: -1597129953
+      TreeAndBurush_22: -1013570656
+      TreeAndBurush_23: -161053187
+      TreeAndBurush_24: 1204315240
+      TreeAndBurush_3: -1054445435
+      TreeAndBurush_4: 1291267095
+      TreeAndBurush_5: 1642999294
+      TreeAndBurush_6: 313208572
+      TreeAndBurush_7: 1914781941
+      TreeAndBurush_8: -1770287018
+      TreeAndBurush_9: -1094256087
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
